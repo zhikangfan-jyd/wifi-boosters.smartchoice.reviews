@@ -1,0 +1,42 @@
+.star-wrapper {
+    // width: 120px;
+    // height: 30px;
+    // background-color: rgb(0, 255, 21);
+    &::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    .star-off {
+        float: left;
+        width: 16px;
+        height: 16px;
+        margin: 0 1px;
+        // border: 1px solid blue;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-image: url('./img/star-off.png');
+    }
+    .star-full {
+        float: left;
+        width: 16px;
+        height: 16px;
+        margin: 0 1px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-image: url('./img/star-full.png');
+    }
+    .star-half {
+        float: left;
+        width: 16px;
+        height: 16px;
+        margin: 0 1px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-image: url('./img/star-half.png');
+    }
+}

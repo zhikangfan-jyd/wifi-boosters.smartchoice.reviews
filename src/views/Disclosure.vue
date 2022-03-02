@@ -7,7 +7,7 @@
 
     <h1 class="title">How We Make Money</h1>
     <div class="content">
-      <p>At Smarrt Choice, we take transparency seriously.</p>
+      <p>At Smart Choice, we take transparency seriously.</p>
       <p>Our content is free because we may earn a commission when you click on a link or make a purchase using our site. We want to make sure that you understand how we make money and who pays us, so we have taken measures to ensure that any advertiser we have a paid relationship with is labeled as "Our Partner" across our website. If you choose to click on the links on our site, we may receive compensation. If you don't click or use the phone numbers listed on our site, we will not be compensated. Ultimately, the choice is yours.</p>
     </div>
     <h1 class="title">How We Rank Our Partners</h1>
@@ -17,7 +17,7 @@
       <p>Companies that meet those threshold requirements are then reviewed by our Editorial Team. Our editors’ judgments are not influenced by bias, conflicts of interest, or financial considerations. We require our writers and editors to assess each company free from internal and external pressures.</p>
       <p>Additional elements that affect our ranking sometimes include historical data such as the number of consumer visits to a partner site, percentage of sign-ups and purchased services, the user device, operating system, location, the day of the week or time of day.</p>
       <p>Ranking, ratings, and the order of companies on our site are subject to change. Our partners' performance and/or payout may influence their position on our website, including the order in which they appear. For example, our partners sometimes get premium or additional placements on our website and in our marketing materials.</p>
-      <p>The analyses and opinions on our site are our own and our editors and staff writers follow guidelines to ensure editorial integrity. Our brand, Smarrt Choice, stands for accuracy and helpful information. We know that we can only be successful if we take your trust in us seriously.</p>
+      <p>The analyses and opinions on our site are our own and our editors and staff writers follow guidelines to ensure editorial integrity. Our brand, Smart Choice, stands for accuracy and helpful information. We know that we can only be successful if we take your trust in us seriously.</p>
     </div>
     <h1 class="title">Our Research Process</h1>
     <div class="content">

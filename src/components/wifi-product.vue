@@ -97,7 +97,7 @@ export default {
           id: 4,
           name: 'RangeXTD',
           picture: require('@/assets/image/wifi/RX.png'),
-          link: 'https://www.frnchprl.com/88MJP83/4T9WDC1/?uid=5271',
+          link: 'https://www.frnchprl.com/88MJP83/6P53KFG/?uid=12722',
           reviewLink: '',
           buys: 788,
           list: [

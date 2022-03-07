@@ -5,7 +5,7 @@
         <span class="close"></span>
         <a :href="mainLink" class="mask-box clearfix" target="_blank">
           <div class="mask-left">
-            <img alt="TechPro" class="ad" src="@/assets/image/wifi/TechPro.png">
+            <img alt="RangeXTD" class="ad" src="@/assets/image/wifi/RangeXTD.png">
           </div>
           <div class="mask-right">
             <p class="offer">Limited Time Offer</p>
@@ -76,7 +76,7 @@
         <WifiProduct/>
       </div>
       <div class="why-area">
-        <h2 class="area-title">Why Is TechPro The Best WiFi Booster?</h2>
+        <h2 class="area-title">Why Is RangeXTD The Best WiFi Booster?</h2>
         <div class="why-container">
           <div class="img-box">
             <div class="img-item">
@@ -104,13 +104,13 @@
               any signal at all! No one could agree on a fixed schedule for sharing. Fights ensued. Lots of yelling.</p>
             <p>No matter the time of day, which room I was in, or what device I was using, half the time, the internet
               just kept cutting out.></p>
-            <p>TechPro is a compact gadget that fits in the palm of your hand. By plugging it into any wall outlet
+            <p>RangeXTD is a compact gadget that fits in the palm of your hand. By plugging it into any wall outlet
               within your home, you can effectively boost the range of your current router. He mentioned it had dual
               antennas built-in with a speed up to 300 Mbps.</p>
-            <p>Using TechPro, so will no longer have WiFi dead zones in and around your house or office. If you have a
-              large house, or want to extend all the way into your garden, we suggest buying multiple TechPro WiFi
-              Boosters. The great thing about TechPro is that you can chain them together, creating a massive high
-              speed WiFi network! TechPro gives you even more discount if you buy several, so make sure you choose the
+            <p>Using RangeXTD, so will no longer have WiFi dead zones in and around your house or office. If you have a
+              large house, or want to extend all the way into your garden, we suggest buying multiple RangeXTD WiFi
+              Boosters. The great thing about RangeXTD is that you can chain them together, creating a massive high
+              speed WiFi network! RangeXTD gives you even more discount if you buy several, so make sure you choose the
               best option for you.</p>
           </div>
         </div>
@@ -120,9 +120,9 @@
           <h3 class="offer">Special Offer on Now!</h3>
           <p class="sub">Now there is a special offer, but such a low price, there may not be much left! </p>
           <p class="sub">So do it now!</p>
-          <p class="get-up">Get Up To <span class="big-red">50% OFF</span> Your <strong>TechPro</strong> Today!</p>
-          <img alt="" class="picture" src="@/assets/image/wifi/TechPro-special-offer.jpg">
-          <a :href="mainLink" class="btn" rel="noopener noreferrer" target="_blank">Get Your TechPro Now!</a>
+          <p class="get-up">Get Up To <span class="big-red">50% OFF</span> Your <strong>RangeXTD</strong> Today!</p>
+          <img alt="" class="picture" src="@/assets/image/wifi/RangeXTD-special-offer.jpg">
+          <a :href="mainLink" class="btn" rel="noopener noreferrer" target="_blank">Get Your RangeXTD Now!</a>
         </div>
       </div>
       <div class="faq-area">
@@ -148,7 +148,7 @@ export default {
   },
   data() {
     return {
-      mainLink: 'https://newest-creation.com/?a=208800&c=23512&s2={clickid}',
+      mainLink: 'https://www.frnchprl.com/88MJP83/6P53KFG/?uid=12722',
       questionData: [
         {
           title: 'How Does a Best Wifi Range Extenders Work?',

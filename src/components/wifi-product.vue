@@ -25,7 +25,7 @@
                 </li>
               </ul>
               <p v-if="index == 0 || index == productList.length - 1" class="buys">More than {{ product.buys }} people
-                choose TechPro Today!</p>
+                choose RangeXTD Today!</p>
             </div>
           </div>
           <div class="product-container-right">
@@ -57,6 +57,36 @@ export default {
     return {
       productList: [
         {
+          id: 4,
+          name: 'RangeXTD',
+          picture: require('@/assets/image/wifi/RangeXTD.png'),
+          link: 'https://www.frnchprl.com/88MJP83/6P53KFG/?uid=12722',
+          reviewLink: '',
+          buys: 788,
+          list: [
+            {
+              text: 'Boosts WiFi signal dramatically'
+            },
+            {
+              text: 'Increases WiFi coverage in large homes'
+            },
+            {
+              text: 'Lightning-fast data transfer'
+            },
+            {
+              text: 'Easy to install and use'
+            },
+            {
+              text: 'Small and inconspicuous enough'
+            },
+            {
+              text: '30-day money back guarantee'
+            }
+          ],
+          score: '9.8'
+
+        },
+        {
           id: 1,
           name: 'TechPro',
           picture: require('@/assets/image/wifi/TechPro.png'),
@@ -86,43 +116,14 @@ export default {
               text: 'Increases your Wi-Fi coverage'
             },
             {
-              text: 'Receive up to 50% OFF'
-            }
-          ],
-          score: '9.8'
-
-        },
-
-        {
-          id: 4,
-          name: 'RangeXTD',
-          picture: require('@/assets/image/wifi/RX.png'),
-          link: 'https://www.frnchprl.com/88MJP83/6P53KFG/?uid=12722',
-          reviewLink: '',
-          buys: 788,
-          list: [
-            {
-              text: 'Boosts WiFi signal dramatically'
-            },
-            {
-              text: 'Increases WiFi coverage in large homes'
-            },
-            {
-              text: 'Lightning-fast data transfer'
-            },
-            {
-              text: 'Easy to install and use'
-            },
-            {
-              text: 'Small and inconspicuous enough'
-            },
-            {
-              text: '30-day money back guarantee'
+              text: 'Receive up to 50% OFF'
             }
           ],
           score: '9.5'
 
         },
+
+
         {
           id: 2,
           name: 'Ultra Boost',
@@ -174,38 +175,36 @@ export default {
           score: '8.8'
 
         },
-
-
         {
-          id: 1,
-          name: 'TechPro',
-          picture: require('@/assets/image/wifi/TechPro.png'),
-          link: 'https://newest-creation.com/?a=208800&c=23512&s2={clickid}',
+          id: 4,
+          name: 'RangeXTD',
+          picture: require('@/assets/image/wifi/RangeXTD.png'),
+          link: 'https://www.frnchprl.com/88MJP83/6P53KFG/?uid=12722',
           reviewLink: '',
           buys: 788,
           list: [
             {
-              text: 'Up to 300Mbps transfer speeds'
+              text: 'Boosts WiFi signal dramatically'
             },
             {
-              text: 'Multiple connection modes'
+              text: 'Increases WiFi coverage in large homes'
             },
             {
-              text: 'Easy plug & play setup'
+              text: 'Lightning-fast data transfer'
             },
             {
-              text: 'Great quality & affordable price'
+              text: 'Easy to install and use'
+            },
+            {
+              text: 'Small and inconspicuous enough'
             },
             {
               text: '30-day money back guarantee'
-            },
-            {
-              text: 'Blazing fast data transfer'
             }
           ],
           score: '9.8'
 
-        },
+        }
       ]
     }
   },
